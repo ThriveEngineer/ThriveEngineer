@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThriveEngineer
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning MySQL and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? kresstudios@gmail.com
 - 😄 Pronouns: ...
