@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MySQL and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? kresstudios@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I go to School
   
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L115XHM6)
