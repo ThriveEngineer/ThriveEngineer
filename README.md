@@ -5,6 +5,8 @@
 - 📫 How to reach me? kresstudios@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I go to School
+  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L115XHM6)
 
 <!---
 ThriveEngineer/ThriveEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
