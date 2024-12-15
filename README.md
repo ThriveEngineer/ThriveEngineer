@@ -1,17 +1,19 @@
-- 👋 Hi, I’m @ThriveEngineer
-- 👀 I’m interested in Coding, Tech and Coffee☕
-- 🌱 I’m currently learning MySQL and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? kresstudios@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I go to School
+# 💫 About Me:
+- 👋 Hi, I’m @ThriveEngineer<br>- 👀 I’m interested in Coding, Tech and Coffee☕<br>- 🌱 I’m currently learning MySQL and Flutter<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me? kresstudios@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I go to School
+
+
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ThriveEngineer) 
+
+# 💻 Tech Stack:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thriveengineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thriveengineer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thriveengineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thriveengineer) 
+
   
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L115XHM6)
-
-<!---
-ThriveEngineer/ThriveEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThriveEngineer&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
