@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ThriveEngineer<br>- 👀 I’m interested in Coding, Tech and Coffee☕<br>- 🌱 I’m currently learning MySQL and Flutter<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me? kresstudios@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I go to School
+- 👋 Hi, I’m Luis<br>- 👀 I’m interested in Coding, Tech and Coffee☕<br>- 🌱 I’m currently learning MySQL and Flutter<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me? kresstudios@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I go to School
 
 
 ## 🌐 Socials:
